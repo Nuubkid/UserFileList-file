@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\bin\Debug\UserFileList.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\bin\Debug\UserFileList.exe
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\bin\Debug\UserFileList.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\obj\Debug\UserFileList.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\obj\Debug\UserFileList.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\obj\Debug\UserFileList.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\obj\Debug\UserFileList.exe
+c:\users\administrator\documents\visual studio 2015\Projects\UserFileList\UserFileList\obj\Debug\UserFileList.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\UserFileList\UserFileList\obj\Debug\UserFileList.csprojResolveAssemblyReference.cache
